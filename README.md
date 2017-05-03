@@ -1,4 +1,4 @@
-# Socket.io with node.js a cluster
+# Socket.io on node.js cluster
 
 A simple performant way to use socket.io with a cluster.
 
